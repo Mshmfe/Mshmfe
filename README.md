@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mashael Aljaafari</h1>
-<h3 align="center">A passionate Fullstack developer and Data analysis from Tabuk, Saudi Arabia</h3>
+<h3 align="center">A passionate Data analysis from Tabuk, Saudi Arabia</h3>
 <img align ="right" width="400" src="https://th.bing.com/th/id/R.e358799227826cfa87b038c2bb84381e?rik=txdPjTxEqQpJBg&pid=ImgRaw&r=0"alt="Hello world"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshmfe&label=Profile%20views&color=0e75b6&style=flat" alt="mshmfe" /> </p>
