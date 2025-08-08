@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mshmfe&label=Profile%20views&color=0e75b6&style=flat" alt="mshmfe" /> </p>
 
-- 🌱 I’m Fullstack developer currently learning **Data analysis**
+- 🌱 I’m currently learning **Data analysis**
 
 - 📫 How to reach me **mashaelaljafari1@gmail.com**
 
